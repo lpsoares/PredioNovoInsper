@@ -1,0 +1,568 @@
+fileFormatVersion: 2
+guid: c90ae13da951d4291af22f2cf0c74c44
+timeCreated: 1504058130
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Caster
+    100002: Caster 1
+    100004: Caster 2
+    100006: Caster 3
+    100008: CB2_Go_Cart_Desk
+    100010: Component
+    100012: Component_3
+    100014: Component_3 1
+    100016: Component_3 2
+    100018: Component_3 3
+    100020: Component_4
+    100022: Component_4 1
+    100024: Component_4 2
+    100026: Component_4 3
+    100028: Component_5
+    100030: Component_5 1
+    100032: Component_5 2
+    100034: Component_5 3
+    100036: Component_6
+    100038: gocart_leg
+    100040: gocart_leg 1
+    100042: gocart_leg_1
+    100044: gocart_leg_1 1
+    100046: group_0
+    100048: group_1
+    100050: group_2
+    100052: ID101
+    100054: ID101 1
+    100056: ID106
+    100058: ID106 1
+    100060: ID110
+    100062: ID110 1
+    100064: ID114
+    100066: ID114 1
+    100068: ID118
+    100070: ID118 1
+    100072: ID122
+    100074: ID122 1
+    100076: ID126
+    100078: ID126 1
+    100080: ID130
+    100082: ID130 1
+    100084: ID134
+    100086: ID134 1
+    100088: ID148
+    100090: ID148 1
+    100092: ID154
+    100094: ID154 1
+    100096: ID160
+    100098: ID160 1
+    100100: ID166
+    100102: ID166 1
+    100104: ID17
+    100106: ID172
+    100108: ID172 1
+    100110: ID178
+    100112: ID178 1
+    100114: ID192
+    100116: ID192 1
+    100118: ID216
+    100120: ID216 1
+    100122: ID222
+    100124: ID222 1
+    100126: ID228
+    100128: ID228 1
+    100130: ID234
+    100132: ID234 1
+    100134: ID240
+    100136: ID240 1
+    100138: ID244
+    100140: ID244 1
+    100142: ID250
+    100144: ID250 1
+    100146: ID254
+    100148: ID254 1
+    100150: ID258
+    100152: ID258 1
+    100154: ID262
+    100156: ID262 1
+    100158: ID266
+    100160: ID266 1
+    100162: ID270
+    100164: ID270 1
+    100166: ID274
+    100168: ID274 1
+    100170: ID278
+    100172: ID278 1
+    100174: ID283
+    100176: ID283 1
+    100178: ID287
+    100180: ID287 1
+    100182: ID291
+    100184: ID291 1
+    100186: ID295
+    100188: ID295 1
+    100190: ID299
+    100192: ID299 1
+    100194: ID303
+    100196: ID303 1
+    100198: ID307
+    100200: ID307 1
+    100202: ID311
+    100204: ID311 1
+    100206: ID323
+    100208: ID323 1
+    100210: ID329
+    100212: ID329 1
+    100214: ID335
+    100216: ID335 1
+    100218: ID341
+    100220: ID341 1
+    100222: ID347
+    100224: ID347 1
+    100226: ID353
+    100228: ID353 1
+    100230: ID365
+    100232: ID365 1
+    100234: ID37
+    100236: ID37 1
+    100238: ID43
+    100240: ID43 1
+    100242: ID49
+    100244: ID49 1
+    100246: ID55
+    100248: ID55 1
+    100250: ID61
+    100252: ID61 1
+    100254: ID67
+    100256: ID67 1
+    100258: ID73
+    100260: ID73 1
+    100262: ID77
+    100264: ID77 1
+    100266: ID81
+    100268: ID81 1
+    100270: ID85
+    100272: ID85 1
+    100274: ID89
+    100276: ID89 1
+    100278: ID93
+    100280: ID93 1
+    100282: ID97
+    100284: ID97 1
+    100286: //RootNode
+    100288: instance_0
+    100290: instance_1
+    100292: instance_10
+    100294: instance_11
+    100296: instance_2
+    100298: instance_3
+    100300: instance_3 1
+    100302: instance_4
+    100304: instance_4 1
+    100306: instance_4 2
+    100308: instance_4 3
+    100310: instance_5
+    100312: instance_5 1
+    100314: instance_5 2
+    100316: instance_5 3
+    100318: instance_6
+    100320: instance_6 1
+    100322: instance_6 2
+    100324: instance_6 3
+    100326: instance_7
+    100328: instance_8
+    100330: instance_9
+    100332: instance_9 1
+    100334: skp_camera_Last_Saved_SketchUp_View
+    400000: Caster
+    400002: Caster 1
+    400004: Caster 2
+    400006: Caster 3
+    400008: CB2_Go_Cart_Desk
+    400010: Component
+    400012: Component_3
+    400014: Component_3 1
+    400016: Component_3 2
+    400018: Component_3 3
+    400020: Component_4
+    400022: Component_4 1
+    400024: Component_4 2
+    400026: Component_4 3
+    400028: Component_5
+    400030: Component_5 1
+    400032: Component_5 2
+    400034: Component_5 3
+    400036: Component_6
+    400038: gocart_leg
+    400040: gocart_leg 1
+    400042: gocart_leg_1
+    400044: gocart_leg_1 1
+    400046: group_0
+    400048: group_1
+    400050: group_2
+    400052: ID101
+    400054: ID101 1
+    400056: ID106
+    400058: ID106 1
+    400060: ID110
+    400062: ID110 1
+    400064: ID114
+    400066: ID114 1
+    400068: ID118
+    400070: ID118 1
+    400072: ID122
+    400074: ID122 1
+    400076: ID126
+    400078: ID126 1
+    400080: ID130
+    400082: ID130 1
+    400084: ID134
+    400086: ID134 1
+    400088: ID148
+    400090: ID148 1
+    400092: ID154
+    400094: ID154 1
+    400096: ID160
+    400098: ID160 1
+    400100: ID166
+    400102: ID166 1
+    400104: ID17
+    400106: ID172
+    400108: ID172 1
+    400110: ID178
+    400112: ID178 1
+    400114: ID192
+    400116: ID192 1
+    400118: ID216
+    400120: ID216 1
+    400122: ID222
+    400124: ID222 1
+    400126: ID228
+    400128: ID228 1
+    400130: ID234
+    400132: ID234 1
+    400134: ID240
+    400136: ID240 1
+    400138: ID244
+    400140: ID244 1
+    400142: ID250
+    400144: ID250 1
+    400146: ID254
+    400148: ID254 1
+    400150: ID258
+    400152: ID258 1
+    400154: ID262
+    400156: ID262 1
+    400158: ID266
+    400160: ID266 1
+    400162: ID270
+    400164: ID270 1
+    400166: ID274
+    400168: ID274 1
+    400170: ID278
+    400172: ID278 1
+    400174: ID283
+    400176: ID283 1
+    400178: ID287
+    400180: ID287 1
+    400182: ID291
+    400184: ID291 1
+    400186: ID295
+    400188: ID295 1
+    400190: ID299
+    400192: ID299 1
+    400194: ID303
+    400196: ID303 1
+    400198: ID307
+    400200: ID307 1
+    400202: ID311
+    400204: ID311 1
+    400206: ID323
+    400208: ID323 1
+    400210: ID329
+    400212: ID329 1
+    400214: ID335
+    400216: ID335 1
+    400218: ID341
+    400220: ID341 1
+    400222: ID347
+    400224: ID347 1
+    400226: ID353
+    400228: ID353 1
+    400230: ID365
+    400232: ID365 1
+    400234: ID37
+    400236: ID37 1
+    400238: ID43
+    400240: ID43 1
+    400242: ID49
+    400244: ID49 1
+    400246: ID55
+    400248: ID55 1
+    400250: ID61
+    400252: ID61 1
+    400254: ID67
+    400256: ID67 1
+    400258: ID73
+    400260: ID73 1
+    400262: ID77
+    400264: ID77 1
+    400266: ID81
+    400268: ID81 1
+    400270: ID85
+    400272: ID85 1
+    400274: ID89
+    400276: ID89 1
+    400278: ID93
+    400280: ID93 1
+    400282: ID97
+    400284: ID97 1
+    400286: //RootNode
+    400288: instance_0
+    400290: instance_1
+    400292: instance_10
+    400294: instance_11
+    400296: instance_2
+    400298: instance_3
+    400300: instance_3 1
+    400302: instance_4
+    400304: instance_4 1
+    400306: instance_4 2
+    400308: instance_4 3
+    400310: instance_5
+    400312: instance_5 1
+    400314: instance_5 2
+    400316: instance_5 3
+    400318: instance_6
+    400320: instance_6 1
+    400322: instance_6 2
+    400324: instance_6 3
+    400326: instance_7
+    400328: instance_8
+    400330: instance_9
+    400332: instance_9 1
+    400334: skp_camera_Last_Saved_SketchUp_View
+    2000000: skp_camera_Last_Saved_SketchUp_View
+    2300000: Component_3
+    2300002: Component_3 1
+    2300004: Component_3 2
+    2300006: Component_3 3
+    2300008: Component_4
+    2300010: Component_4 1
+    2300012: Component_4 2
+    2300014: Component_4 3
+    2300016: Component_5
+    2300018: Component_5 1
+    2300020: Component_5 2
+    2300022: Component_5 3
+    2300024: gocart_leg
+    2300026: gocart_leg 1
+    2300028: gocart_leg_1
+    2300030: gocart_leg_1 1
+    2300032: group_1
+    2300034: ID148
+    2300036: ID148 1
+    2300038: ID154
+    2300040: ID154 1
+    2300042: ID160
+    2300044: ID160 1
+    2300046: ID166
+    2300048: ID166 1
+    2300050: ID17
+    2300052: ID172
+    2300054: ID172 1
+    2300056: ID192
+    2300058: ID192 1
+    2300060: ID216
+    2300062: ID216 1
+    2300064: ID222
+    2300066: ID222 1
+    2300068: ID228
+    2300070: ID228 1
+    2300072: ID234
+    2300074: ID234 1
+    2300076: ID323
+    2300078: ID323 1
+    2300080: ID329
+    2300082: ID329 1
+    2300084: ID335
+    2300086: ID335 1
+    2300088: ID341
+    2300090: ID341 1
+    2300092: ID347
+    2300094: ID347 1
+    2300096: ID365
+    2300098: ID365 1
+    2300100: ID37
+    2300102: ID37 1
+    2300104: ID43
+    2300106: ID43 1
+    2300108: ID49
+    2300110: ID49 1
+    2300112: ID55
+    2300114: ID55 1
+    3300000: Component_3
+    3300002: Component_3 1
+    3300004: Component_3 2
+    3300006: Component_3 3
+    3300008: Component_4
+    3300010: Component_4 1
+    3300012: Component_4 2
+    3300014: Component_4 3
+    3300016: Component_5
+    3300018: Component_5 1
+    3300020: Component_5 2
+    3300022: Component_5 3
+    3300024: gocart_leg
+    3300026: gocart_leg 1
+    3300028: gocart_leg_1
+    3300030: gocart_leg_1 1
+    3300032: group_1
+    3300034: ID148
+    3300036: ID148 1
+    3300038: ID154
+    3300040: ID154 1
+    3300042: ID160
+    3300044: ID160 1
+    3300046: ID166
+    3300048: ID166 1
+    3300050: ID17
+    3300052: ID172
+    3300054: ID172 1
+    3300056: ID192
+    3300058: ID192 1
+    3300060: ID216
+    3300062: ID216 1
+    3300064: ID222
+    3300066: ID222 1
+    3300068: ID228
+    3300070: ID228 1
+    3300072: ID234
+    3300074: ID234 1
+    3300076: ID323
+    3300078: ID323 1
+    3300080: ID329
+    3300082: ID329 1
+    3300084: ID335
+    3300086: ID335 1
+    3300088: ID341
+    3300090: ID341 1
+    3300092: ID347
+    3300094: ID347 1
+    3300096: ID365
+    3300098: ID365 1
+    3300100: ID37
+    3300102: ID37 1
+    3300104: ID43
+    3300106: ID43 1
+    3300108: ID49
+    3300110: ID49 1
+    3300112: ID55
+    3300114: ID55 1
+    4300000: group_1
+    4300002: ID17
+    4300004: gocart_leg
+    4300006: Component_4
+    4300008: ID37
+    4300010: ID43
+    4300012: ID49
+    4300014: ID55
+    4300016: Component_3
+    4300018: ID148
+    4300020: ID154
+    4300022: ID160
+    4300024: ID166
+    4300026: ID172
+    4300028: Component_5
+    4300030: ID192
+    4300032: gocart_leg
+    4300034: Component_4
+    4300036: ID216
+    4300038: ID222
+    4300040: ID228
+    4300042: ID234
+    4300044: Component_3
+    4300046: ID323
+    4300048: ID329
+    4300050: ID335
+    4300052: ID341
+    4300054: ID347
+    4300056: Component_5
+    4300058: ID365
+    4300060: gocart_leg_1
+    4300062: gocart_leg_1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
