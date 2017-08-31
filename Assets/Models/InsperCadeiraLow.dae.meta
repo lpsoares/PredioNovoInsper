@@ -1,0 +1,673 @@
+fileFormatVersion: 2
+guid: 28b060e65ec81154ab82ab468f166335
+timeCreated: 1504143721
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Chair-Think-Arm_rest_support
+    100002: Chair-Think-Arm_rest_support 1
+    100004: Chair-Think-Arm_rest_support_1
+    100006: Chair-Think-Arm_rest_support_1 1
+    100008: Chair-Think-Arm_rest_support_2
+    100010: Chair-Think-Arm_rest_support_2 1
+    100012: Chair-Think-Arm_rest_support_3
+    100014: Chair-Think-Arm_rest_support_3 1
+    100016: Chair-Think-Arm_rest_support_4
+    100018: Chair-Think-Arm_rest_support_4 1
+    100020: Chair-Think-Back_brace
+    100022: Chair-Think-Back_bracket_1
+    100024: Chair-Think-Back_rest
+    100026: Chair-Think-Base_bracket_1
+    100028: Chair-Think-Base_bracket_2
+    100030: Chair-Think-Base_bracket_3
+    100032: Chair-Think-Base_bracket_4
+    100034: Chair-Think-Base_bracket_4 1
+    100036: Chair-Think-Base_bracket_5
+    100038: Chair-Think-Base_bracket_6
+    100040: Chair-Think-Base_bracket_7
+    100042: Chair-Think-Base_bracket_8
+    100044: Chair-Think-Roller_base_
+    100046: Chair-Think-Roller_base_ 1
+    100048: Chair-Think-Roller_base_ 2
+    100050: Chair-Think-Roller_base_ 3
+    100052: Chair-Think-Roller_base_ 4
+    100054: Chair-Think-Roller_base_ 5
+    100056: Chair-Think-Roller_base_assembly
+    100058: Chair-Think-Roller_wheels
+    100060: Chair-Think-Roller_wheels 1
+    100062: Chair-Think-Roller_wheels 2
+    100064: Chair-Think-Roller_wheels 3
+    100066: Chair-Think-Roller_wheels 4
+    100068: Chair-Think-Roller_wheels 5
+    100070: Chair-Think-Seat_Base
+    100072: Chair-Think-Seat_cushion
+    100074: Chair_Office_STEELCASE-Think
+    100076: Difference
+    100078: Difference 1
+    100080: Difference 2
+    100082: Difference 3
+    100084: Difference 4
+    100086: Difference 5
+    100088: Difference 6
+    100090: group_0
+    100092: group_0 1
+    100094: group_0 2
+    100096: group_0 3
+    100098: group_0 4
+    100100: group_0 5
+    100102: group_1
+    100104: group_10
+    100106: group_11
+    100108: group_12
+    100110: group_13
+    100112: group_14
+    100114: group_15
+    100116: group_16
+    100118: group_17
+    100120: group_18
+    100122: group_19
+    100124: group_2
+    100126: group_20
+    100128: group_21
+    100130: group_22
+    100132: group_23
+    100134: group_3
+    100136: group_4
+    100138: group_5
+    100140: group_6
+    100142: group_7
+    100144: group_8
+    100146: group_9
+    100148: ID103
+    100150: ID109
+    100152: ID115
+    100154: ID121
+    100156: ID127
+    100158: ID133
+    100160: ID139
+    100162: ID153
+    100164: ID159
+    100166: ID16
+    100168: ID165
+    100170: ID171
+    100172: ID177
+    100174: ID183
+    100176: ID215
+    100178: ID221
+    100180: ID227
+    100182: ID233
+    100184: ID239
+    100186: ID24
+    100188: ID245
+    100190: ID251
+    100192: ID265
+    100194: ID271
+    100196: ID277
+    100198: ID283
+    100200: ID289
+    100202: ID295
+    100204: ID30
+    100206: ID320
+    100208: ID36
+    100210: ID590
+    100212: ID598
+    100214: ID606
+    100216: ID614
+    100218: ID622
+    100220: ID630
+    100222: //RootNode
+    100224: instance_0
+    100226: instance_1
+    100228: instance_10
+    100230: instance_11
+    100232: instance_11 1
+    100234: instance_12
+    100236: instance_12 1
+    100238: instance_13
+    100240: instance_13 1
+    100242: instance_14
+    100244: instance_14 1
+    100246: instance_15
+    100248: instance_16
+    100250: instance_17
+    100252: instance_18
+    100254: instance_19
+    100256: instance_2
+    100258: instance_20
+    100260: instance_21
+    100262: instance_22
+    100264: instance_23
+    100266: instance_24
+    100268: instance_25
+    100270: instance_26
+    100272: instance_27
+    100274: instance_28
+    100276: instance_3
+    100278: instance_3 1
+    100280: instance_3 2
+    100282: instance_3 3
+    100284: instance_3 4
+    100286: instance_3 5
+    100288: instance_4
+    100290: instance_5
+    100292: instance_6
+    100294: instance_7
+    100296: instance_8
+    100298: instance_9
+    100300: Intersection
+    100302: skp_camera_Last_Saved_SketchUp_View
+    400000: Chair-Think-Arm_rest_support
+    400002: Chair-Think-Arm_rest_support 1
+    400004: Chair-Think-Arm_rest_support_1
+    400006: Chair-Think-Arm_rest_support_1 1
+    400008: Chair-Think-Arm_rest_support_2
+    400010: Chair-Think-Arm_rest_support_2 1
+    400012: Chair-Think-Arm_rest_support_3
+    400014: Chair-Think-Arm_rest_support_3 1
+    400016: Chair-Think-Arm_rest_support_4
+    400018: Chair-Think-Arm_rest_support_4 1
+    400020: Chair-Think-Back_brace
+    400022: Chair-Think-Back_bracket_1
+    400024: Chair-Think-Back_rest
+    400026: Chair-Think-Base_bracket_1
+    400028: Chair-Think-Base_bracket_2
+    400030: Chair-Think-Base_bracket_3
+    400032: Chair-Think-Base_bracket_4
+    400034: Chair-Think-Base_bracket_4 1
+    400036: Chair-Think-Base_bracket_5
+    400038: Chair-Think-Base_bracket_6
+    400040: Chair-Think-Base_bracket_7
+    400042: Chair-Think-Base_bracket_8
+    400044: Chair-Think-Roller_base_
+    400046: Chair-Think-Roller_base_ 1
+    400048: Chair-Think-Roller_base_ 2
+    400050: Chair-Think-Roller_base_ 3
+    400052: Chair-Think-Roller_base_ 4
+    400054: Chair-Think-Roller_base_ 5
+    400056: Chair-Think-Roller_base_assembly
+    400058: Chair-Think-Roller_wheels
+    400060: Chair-Think-Roller_wheels 1
+    400062: Chair-Think-Roller_wheels 2
+    400064: Chair-Think-Roller_wheels 3
+    400066: Chair-Think-Roller_wheels 4
+    400068: Chair-Think-Roller_wheels 5
+    400070: Chair-Think-Seat_Base
+    400072: Chair-Think-Seat_cushion
+    400074: Chair_Office_STEELCASE-Think
+    400076: Difference
+    400078: Difference 1
+    400080: Difference 2
+    400082: Difference 3
+    400084: Difference 4
+    400086: Difference 5
+    400088: Difference 6
+    400090: group_0
+    400092: group_0 1
+    400094: group_0 2
+    400096: group_0 3
+    400098: group_0 4
+    400100: group_0 5
+    400102: group_1
+    400104: group_10
+    400106: group_11
+    400108: group_12
+    400110: group_13
+    400112: group_14
+    400114: group_15
+    400116: group_16
+    400118: group_17
+    400120: group_18
+    400122: group_19
+    400124: group_2
+    400126: group_20
+    400128: group_21
+    400130: group_22
+    400132: group_23
+    400134: group_3
+    400136: group_4
+    400138: group_5
+    400140: group_6
+    400142: group_7
+    400144: group_8
+    400146: group_9
+    400148: ID103
+    400150: ID109
+    400152: ID115
+    400154: ID121
+    400156: ID127
+    400158: ID133
+    400160: ID139
+    400162: ID153
+    400164: ID159
+    400166: ID16
+    400168: ID165
+    400170: ID171
+    400172: ID177
+    400174: ID183
+    400176: ID215
+    400178: ID221
+    400180: ID227
+    400182: ID233
+    400184: ID239
+    400186: ID24
+    400188: ID245
+    400190: ID251
+    400192: ID265
+    400194: ID271
+    400196: ID277
+    400198: ID283
+    400200: ID289
+    400202: ID295
+    400204: ID30
+    400206: ID320
+    400208: ID36
+    400210: ID590
+    400212: ID598
+    400214: ID606
+    400216: ID614
+    400218: ID622
+    400220: ID630
+    400222: //RootNode
+    400224: instance_0
+    400226: instance_1
+    400228: instance_10
+    400230: instance_11
+    400232: instance_11 1
+    400234: instance_12
+    400236: instance_12 1
+    400238: instance_13
+    400240: instance_13 1
+    400242: instance_14
+    400244: instance_14 1
+    400246: instance_15
+    400248: instance_16
+    400250: instance_17
+    400252: instance_18
+    400254: instance_19
+    400256: instance_2
+    400258: instance_20
+    400260: instance_21
+    400262: instance_22
+    400264: instance_23
+    400266: instance_24
+    400268: instance_25
+    400270: instance_26
+    400272: instance_27
+    400274: instance_28
+    400276: instance_3
+    400278: instance_3 1
+    400280: instance_3 2
+    400282: instance_3 3
+    400284: instance_3 4
+    400286: instance_3 5
+    400288: instance_4
+    400290: instance_5
+    400292: instance_6
+    400294: instance_7
+    400296: instance_8
+    400298: instance_9
+    400300: Intersection
+    400302: skp_camera_Last_Saved_SketchUp_View
+    2000000: skp_camera_Last_Saved_SketchUp_View
+    2300000: Chair-Think-Arm_rest_support_1
+    2300002: Chair-Think-Arm_rest_support_1 1
+    2300004: Chair-Think-Arm_rest_support_2
+    2300006: Chair-Think-Arm_rest_support_2 1
+    2300008: Chair-Think-Arm_rest_support_3
+    2300010: Chair-Think-Arm_rest_support_3 1
+    2300012: Chair-Think-Arm_rest_support_4
+    2300014: Chair-Think-Arm_rest_support_4 1
+    2300016: Chair-Think-Back_bracket_1
+    2300018: Chair-Think-Back_rest
+    2300020: Chair-Think-Base_bracket_1
+    2300022: Chair-Think-Base_bracket_2
+    2300024: Chair-Think-Base_bracket_3
+    2300026: Chair-Think-Base_bracket_4
+    2300028: Chair-Think-Base_bracket_4 1
+    2300030: Chair-Think-Base_bracket_5
+    2300032: Chair-Think-Base_bracket_6
+    2300034: Chair-Think-Base_bracket_7
+    2300036: Chair-Think-Base_bracket_8
+    2300038: Chair-Think-Roller_wheels
+    2300040: Chair-Think-Roller_wheels 1
+    2300042: Chair-Think-Roller_wheels 2
+    2300044: Chair-Think-Roller_wheels 3
+    2300046: Chair-Think-Roller_wheels 4
+    2300048: Chair-Think-Roller_wheels 5
+    2300050: Chair-Think-Seat_cushion
+    2300052: Difference
+    2300054: Difference 1
+    2300056: Difference 2
+    2300058: Difference 3
+    2300060: Difference 4
+    2300062: Difference 5
+    2300064: Difference 6
+    2300066: group_0
+    2300068: group_0 1
+    2300070: group_0 2
+    2300072: group_0 3
+    2300074: group_0 4
+    2300076: group_0 5
+    2300078: group_1
+    2300080: group_10
+    2300082: group_11
+    2300084: group_12
+    2300086: group_13
+    2300088: group_14
+    2300090: group_15
+    2300092: group_16
+    2300094: group_17
+    2300096: group_18
+    2300098: group_19
+    2300100: group_2
+    2300102: group_20
+    2300104: group_21
+    2300106: group_22
+    2300108: group_23
+    2300110: group_3
+    2300112: group_4
+    2300114: group_5
+    2300116: group_6
+    2300118: group_7
+    2300120: group_8
+    2300122: group_9
+    2300124: ID103
+    2300126: ID109
+    2300128: ID115
+    2300130: ID121
+    2300132: ID127
+    2300134: ID133
+    2300136: ID139
+    2300138: ID153
+    2300140: ID159
+    2300142: ID16
+    2300144: ID165
+    2300146: ID171
+    2300148: ID177
+    2300150: ID183
+    2300152: ID215
+    2300154: ID221
+    2300156: ID227
+    2300158: ID233
+    2300160: ID239
+    2300162: ID24
+    2300164: ID245
+    2300166: ID251
+    2300168: ID265
+    2300170: ID271
+    2300172: ID277
+    2300174: ID283
+    2300176: ID289
+    2300178: ID295
+    2300180: ID30
+    2300182: ID320
+    2300184: ID36
+    2300186: ID590
+    2300188: ID598
+    2300190: ID606
+    2300192: ID614
+    2300194: ID622
+    2300196: ID630
+    2300198: Intersection
+    3300000: Chair-Think-Arm_rest_support_1
+    3300002: Chair-Think-Arm_rest_support_1 1
+    3300004: Chair-Think-Arm_rest_support_2
+    3300006: Chair-Think-Arm_rest_support_2 1
+    3300008: Chair-Think-Arm_rest_support_3
+    3300010: Chair-Think-Arm_rest_support_3 1
+    3300012: Chair-Think-Arm_rest_support_4
+    3300014: Chair-Think-Arm_rest_support_4 1
+    3300016: Chair-Think-Back_bracket_1
+    3300018: Chair-Think-Back_rest
+    3300020: Chair-Think-Base_bracket_1
+    3300022: Chair-Think-Base_bracket_2
+    3300024: Chair-Think-Base_bracket_3
+    3300026: Chair-Think-Base_bracket_4
+    3300028: Chair-Think-Base_bracket_4 1
+    3300030: Chair-Think-Base_bracket_5
+    3300032: Chair-Think-Base_bracket_6
+    3300034: Chair-Think-Base_bracket_7
+    3300036: Chair-Think-Base_bracket_8
+    3300038: Chair-Think-Roller_wheels
+    3300040: Chair-Think-Roller_wheels 1
+    3300042: Chair-Think-Roller_wheels 2
+    3300044: Chair-Think-Roller_wheels 3
+    3300046: Chair-Think-Roller_wheels 4
+    3300048: Chair-Think-Roller_wheels 5
+    3300050: Chair-Think-Seat_cushion
+    3300052: Difference
+    3300054: Difference 1
+    3300056: Difference 2
+    3300058: Difference 3
+    3300060: Difference 4
+    3300062: Difference 5
+    3300064: Difference 6
+    3300066: group_0
+    3300068: group_0 1
+    3300070: group_0 2
+    3300072: group_0 3
+    3300074: group_0 4
+    3300076: group_0 5
+    3300078: group_1
+    3300080: group_10
+    3300082: group_11
+    3300084: group_12
+    3300086: group_13
+    3300088: group_14
+    3300090: group_15
+    3300092: group_16
+    3300094: group_17
+    3300096: group_18
+    3300098: group_19
+    3300100: group_2
+    3300102: group_20
+    3300104: group_21
+    3300106: group_22
+    3300108: group_23
+    3300110: group_3
+    3300112: group_4
+    3300114: group_5
+    3300116: group_6
+    3300118: group_7
+    3300120: group_8
+    3300122: group_9
+    3300124: ID103
+    3300126: ID109
+    3300128: ID115
+    3300130: ID121
+    3300132: ID127
+    3300134: ID133
+    3300136: ID139
+    3300138: ID153
+    3300140: ID159
+    3300142: ID16
+    3300144: ID165
+    3300146: ID171
+    3300148: ID177
+    3300150: ID183
+    3300152: ID215
+    3300154: ID221
+    3300156: ID227
+    3300158: ID233
+    3300160: ID239
+    3300162: ID24
+    3300164: ID245
+    3300166: ID251
+    3300168: ID265
+    3300170: ID271
+    3300172: ID277
+    3300174: ID283
+    3300176: ID289
+    3300178: ID295
+    3300180: ID30
+    3300182: ID320
+    3300184: ID36
+    3300186: ID590
+    3300188: ID598
+    3300190: ID606
+    3300192: ID614
+    3300194: ID622
+    3300196: ID630
+    3300198: Intersection
+    4300000: Intersection
+    4300002: ID16
+    4300004: ID24
+    4300006: ID30
+    4300008: ID36
+    4300010: Difference
+    4300012: group_0
+    4300014: Chair-Think-Roller_wheels
+    4300016: Chair-Think-Seat_cushion
+    4300018: Chair-Think-Arm_rest_support_3
+    4300020: Chair-Think-Arm_rest_support_1
+    4300022: ID103
+    4300024: ID109
+    4300026: ID115
+    4300028: ID121
+    4300030: ID127
+    4300032: ID133
+    4300034: ID139
+    4300036: Chair-Think-Arm_rest_support_2
+    4300038: ID153
+    4300040: ID159
+    4300042: ID165
+    4300044: ID171
+    4300046: ID177
+    4300048: ID183
+    4300050: Chair-Think-Arm_rest_support_4
+    4300052: Chair-Think-Arm_rest_support_3
+    4300054: Chair-Think-Arm_rest_support_1
+    4300056: ID215
+    4300058: ID221
+    4300060: ID227
+    4300062: ID233
+    4300064: ID239
+    4300066: ID245
+    4300068: ID251
+    4300070: Chair-Think-Arm_rest_support_2
+    4300072: ID265
+    4300074: ID271
+    4300076: ID277
+    4300078: ID283
+    4300080: ID289
+    4300082: ID295
+    4300084: Chair-Think-Arm_rest_support_4
+    4300086: Difference
+    4300088: ID320
+    4300090: Chair-Think-Base_bracket_3
+    4300092: Chair-Think-Base_bracket_1
+    4300094: Chair-Think-Base_bracket_4
+    4300096: Chair-Think-Base_bracket_4
+    4300098: Chair-Think-Base_bracket_2
+    4300100: Chair-Think-Base_bracket_7
+    4300102: Chair-Think-Base_bracket_6
+    4300104: Chair-Think-Base_bracket_5
+    4300106: Chair-Think-Base_bracket_8
+    4300108: Chair-Think-Back_bracket_1
+    4300110: Chair-Think-Back_rest
+    4300112: ID590
+    4300114: ID598
+    4300116: ID606
+    4300118: ID614
+    4300120: ID622
+    4300122: ID630
+    4300124: group_1
+    4300126: group_2
+    4300128: group_3
+    4300130: group_4
+    4300132: group_5
+    4300134: group_6
+    4300136: group_7
+    4300138: group_8
+    4300140: group_9
+    4300142: group_10
+    4300144: group_11
+    4300146: group_12
+    4300148: group_13
+    4300150: group_14
+    4300152: group_15
+    4300154: group_16
+    4300156: group_17
+    4300158: group_18
+    4300160: group_19
+    4300162: group_20
+    4300164: group_21
+    4300166: group_22
+    4300168: group_23
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
